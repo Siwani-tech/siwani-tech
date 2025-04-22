@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Siwani
+# Hey there! 👋 I'm Shiwani
 
 I'm a passionate **Software Developer** at **Reliance Industries** .
 
