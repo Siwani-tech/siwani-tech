@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Shiwani
 
-I'm a passionate **Software Developer** at **Reliance Industries** .
+I'm a passionate **Software Developer**.
 
 ### 👨‍💻 What I Do
 - Crafting intuitive, responsive UIs with **HTML, CSS, JavaScript, React**
